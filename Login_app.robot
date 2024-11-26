@@ -42,4 +42,4 @@ Arpita
     
       Hide Keyboard
       Click Element    ${LOGIN_BUT}
-  #  Wait Until Page Contains Element    ${HOME}    10s
+  #  Wait Until Page Contains Element    ${HOME}    11s
